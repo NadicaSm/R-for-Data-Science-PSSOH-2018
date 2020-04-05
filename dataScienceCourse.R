@@ -1,4 +1,5 @@
-# Code for course on "R for Data Science" Postconference PSSOH 2018 course
+# Code for course on "R for Data Science" postconference PSSOH 2018 course used for the course for master students
+# at the University of Belgrade - School of Electrical Engineering in 2020 and forked from PSSOH github profile.
 
 # version:
 # platform       x86_64-w64-mingw32          
